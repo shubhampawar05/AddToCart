@@ -29,7 +29,6 @@ hr{
 }
 .productItemList{
     /* border: 3px solid rgb(39, 27, 27); */
-    overflow-y: scroll;
     height: 300px;
 }
 .productstyle{
